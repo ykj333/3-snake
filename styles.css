@@ -1,0 +1,10 @@
+/* styles.css */
+body {
+    margin: 0;
+    overflow: hidden;
+    background-color: #000; /* 배경색을 검정으로 설정 */
+}
+
+canvas {
+    display: block; /* 캔버스를 블록 요소로 설정하여 여백 제거 */
+}
